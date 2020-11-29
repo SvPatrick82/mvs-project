@@ -1,0 +1,12 @@
+Глобальные данные в самом начале устанавливаются 1 раз
+git config --global user.name "Maksim Berezovsky ST" -  имя 
+git config --global user.email "SVPatrick82@gmail.com"  -  email
+
+
+
+git init    -    инициализация проэкта
+
+git status     -   статус проэкта
+
+git add     -    добавление файлов и папок в проэкт( .  - добавить все или написать название файла)
+
