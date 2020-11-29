@@ -22,4 +22,8 @@ git branch dz  -    добавление или создание новой ве
 
 git checkout master  -    переход на ветку master если создана
 
-get checkout -b  dz    -    создает и переходит на ветку dz
+git checkout -b  dz    -    создает и переходит на ветку dz
+
+git merge dz   - обьеденение веток надо находится в другой ветке
+
+git 
